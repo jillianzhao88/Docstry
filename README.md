@@ -1,0 +1,2 @@
+# Docstry
+Documents like docs
